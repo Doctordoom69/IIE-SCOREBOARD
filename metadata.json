@@ -1,0 +1,5 @@
+
+{
+  "name": "Student Scoreboard",
+  "description": "A web application to enter daily task scores for students and view them on an online scoreboard. It includes a data entry form and dynamically updated tables for all scores and summary totals per student."
+}
